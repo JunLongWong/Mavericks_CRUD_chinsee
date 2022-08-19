@@ -12,4 +12,4 @@
 
 
 
-go to [test anchor link](1)
+go to [test anchor link](#1.)
